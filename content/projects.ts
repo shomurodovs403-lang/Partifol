@@ -35,17 +35,17 @@ export interface FeaturedCaseStudy {
 export const selectedWork: Project[] = [
   {
     id: "project-1",
-    title: "Interaktiv Veb Platforma",
-    category: "Veb Ilova & Boshqaruv Paneli",
+    title: "WoodCraft — Zamonaviy Mebel Do'koni",
+    category: "E-Commerce & Veb Ilova",
     role: "Frontend Dasturchi",
-    stack: ["JavaScript", "React", "CSS3", "Tailwind CSS"],
-    problem: "Foydalanuvchilar uchun qulay, tezkor va moslashuvchan boshqaruv panelini ishlab chiqish zarur edi.",
-    solution: "React komponentlari, zamonaviy CSS animatsiyalari va toza kod arxitekturasi orqali intuitiv interfeys yaratildi.",
-    result: "Foydalanuvchilar sahifada 40% tezroq harakatlanadigan qulay tizimga ega bo'ldi.",
+    stack: ["JavaScript", "HTML5", "CSS3", "Responsive Design", "Vercel"],
+    problem: "Foydalanuvchilar uchun qulay, zamonaviy va mahsulotlarni oson ko'rish, saralash hamda xarid qilish imkonini beruvchi onlayn platforma yaratish.",
+    solution: "WoodCraft platformasi uchun chiroyli interfeys, tovarlar katalogi, interaktiv savatcha, qidiruv va moslashuvchan dizayn ishlab chiqildi.",
+    result: "Foydalanuvchilarga qulay va tezkor xarid tizimi taqdim etildi va Vercel platformasida jonli ishga tushirildi.",
     visualMockType: "dashboard",
     links: {
-      live: "https://example.com",
-      github: "https://github.com"
+      live: "https://book-y1d2.vercel.app",
+      github: "https://github.com/shomurodovs403-lang"
     }
   },
   {
